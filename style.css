@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(245, 229, 210);
+}
+
+
+  .contenedorPrueba {
+    position: relative;
+  }
+
+  .slider {
+    position: relative;
+    background: black;
+    height: 80px;
+    color: #f1f1f1;
+
+  }
+  .form {
+    position:absolute;
+    top: 60%;
+    left:20%;
+    transform: translate(-50%,-50%);
+    width: 450px;
+    height: 450px;
+    background: #f1f1f1;  
+  }
+
+  .img {
+    position:absolute;
+    top: 40%;
+    left:60%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height:100px;
+    color: #f1f1f1;
+  }
+
+
+.Preguntas {
+  text-align: center;
+}
+
+.nuevo {
+  text-align: center;
+  font-size:x-large;
+}
+.clearfix {
+  background-color: white;
+  width: 700px;
+  height: 300px;
+
+}
+.clearfix2 {
+  background-color: white;
+  width: 700px;
+  height: 300px;
+}
+.m-4 {
+  width: 900;
+}
+
+
+
